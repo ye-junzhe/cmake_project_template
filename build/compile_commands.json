@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/Users/mcf4r/Dev/CPP/cmake_project_template/build",
-  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/usr/local/include -I/opt/homebrew/Cellar/eigen/3.4.0_1/include -I/Users/mcf4r/Dev/CPP/cmake_project_template/denpendencies/include -I/Users/mcf4r/Dev/CPP/cmake_project_template/denpendencies/lib -isystem /opt/homebrew/Cellar/opencv/4.6.0_1/include/opencv4  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/cmake_project_template.dir/main.cpp.o -c /Users/mcf4r/Dev/CPP/cmake_project_template/main.cpp",
-  "file": "/Users/mcf4r/Dev/CPP/cmake_project_template/main.cpp"
-}
-]
