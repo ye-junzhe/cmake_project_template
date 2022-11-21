@@ -14,8 +14,6 @@ set(CMAKE_CXX_STANDARD 17)
 # header file directories
 include_directories(/usr/local/include)
 include_directories(/opt/homebrew/Cellar/eigen/3.4.0_1/include)
-include_directories(${CMAKE_CURRENT_SOURCE_DIR}/denpendencies/include)
-include_directories(${CMAKE_CURRENT_SOURCE_DIR}/denpendencies/lib)
 
 # The name of the gernerated executable
 add_executable(${ProjectId} ${CMAKE_CURRENT_SOURCE_DIR} main.cpp)
