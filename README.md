@@ -2,5 +2,5 @@
 
 ## Usage
 ```
-sh compile.sh
+sh build.sh
 ```

@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+build/
+.cache/
+ninja-build/
+
+compile_commands.json
+
+**.DS_Store
